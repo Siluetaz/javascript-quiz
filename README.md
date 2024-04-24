@@ -1,5 +1,7 @@
 Pequeño proyecto creado para practicar React, específicamente Zustand, librería para gestionar el estado global, una opción a Redux.
 
+Además de utilizar zustand para manejar el estado global, también se utilizó para persistir los cambios en el sitio, es decir, las respuestas en el localStorage.
+
 #Imagenes de referencia
 
 Inicio
